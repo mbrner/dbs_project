@@ -1,0 +1,9 @@
+[postgres]
+user = 'postgres'
+password = 'postgres'
+host = 'db'
+port = '5432'
+database_name = 'dbs_project'
+
+[data]
+data_folder = '/dbs_project/data'

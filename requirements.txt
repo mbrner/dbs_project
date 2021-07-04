@@ -1,0 +1,9 @@
+psycopg2-binary
+toml
+click
+plotly
+dash
+pandas
+openpyxl
+scikit-learn
+kats
